@@ -424,7 +424,7 @@ Percentage breakdown by category.
 | `GET /api/auth/me`                   | ✅      | ✅       | ✅     |
 | `GET /api/users`                     | ❌      | ❌       | ✅     |
 | `GET /api/users/:id` (own profile)   | ✅      | ✅       | ✅     |
-| `PUT /api/users/:id` (own profile)   | ✅ *    | ✅ *     | ✅     |
+| `PUT /api/users/:id` (own profile)   | ✅      | ✅       | ✅     |
 | `DELETE /api/users/:id`              | ❌      | ❌       | ✅     |
 | `GET /api/records`                   | ✅      | ✅       | ✅     |
 | `GET /api/records/:id`               | ✅      | ✅       | ✅     |
